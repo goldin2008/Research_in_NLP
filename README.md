@@ -1,5 +1,10 @@
 # Research_in_NLP
-Computer Science Research in Natural Language Processing
+
+## Getting Started with Text Processing or Natural Language Processing
+
+> http://textminingonline.com/getting-started-with-text-processing-or-natural-language-processing
+
+## Computer Science Research in Natural Language Processing
 
 https://www.kaggle.com/c/titanic/details/new-getting-started-with-r
 
